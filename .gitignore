@@ -1,0 +1,15 @@
+
+# Arquivos gerados pelo NetBeans e Java
+/build/
+/dist/
+*.class
+
+# Logs de erros e execução
+hs_err_pid*.log
+replay_pid*.log
+
+# Configurações locais e temporárias
+*.properties.local
+
+# Configurações privadas do NetBeans
+/nbproject/private/
